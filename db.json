@@ -8,13 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "users" : [
-    
-    {"id" : 6, "name" : "New Salesforce Updated", "information" : "New Salesforce "},
-    {"id" : 3, "name" : "Jane Doe Updated", "information" : "something about Jane updated"},
-    {"id" : 4, "name" : "MuleSoft Salesforce Updated", "information" : "something about MuleSoft updated"}
-
-    ],
+ 
   "profile": {
     "name": "typicode"
   }

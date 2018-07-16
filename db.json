@@ -9,7 +9,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "users" : [
-    {"id" : 4, "name" : "MuleSoft Salesforce", "information" : "something about MuleSoft"}
+    {"id" : 3, "name" : "Jane Doe Updated", "information" : "something about Jane updated"},
+    {"id" : 4, "name" : "MuleSoft Salesforce Updated", "information" : "something about MuleSoft updated"},
+    {"id" : 6, "name" : "New Salesforce Updated", "information" : "New Salesforce"}
 
     ],
   "profile": {

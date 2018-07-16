@@ -13,11 +13,6 @@
     {"id" : 5, "name" : "Art Vandelay", "information" : "Something about Art"},
     {"id" : 6, "name" : "New Salesforce", "information" : "Something about New Salesforce"}
   ],
-
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
  
   "profile": {
     "name": "typicode"

@@ -8,6 +8,12 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "users" : [
+    {"id" : 1, "name" : "Yogesh Dhimate", "information" : "something about Yogesh"},
+    {"id" : 2, "name" : "John Doe", "information" : "something about John"},
+    {"id" : 3, "name" : "Jane Doe", "information" : "something about Jane"}
+    
+    ]
   "profile": {
     "name": "typicode"
   }

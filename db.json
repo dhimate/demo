@@ -1,12 +1,8 @@
 {
   "projects": [
-    { "id": 1, "title": "Project 1" },
-    { "id": 2, "title": "Project 2" },
-    { "id": 3, "title": "Project 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "title": "Project 1", "information": "Info Project 1"},
+    { "id": 2, "title": "Project 2", "information": "Info Project 2"},
+    { "id": 3, "title": "Project 3", "information": "Info Project 3"}
   ],
  
   "users" : [
@@ -18,6 +14,11 @@
     {"id" : 6, "name" : "New Salesforce", "information" : "Something about New Salesforce"}
   ],
 
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+ 
   "profile": {
     "name": "typicode"
   }

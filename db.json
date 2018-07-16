@@ -1,6 +1,6 @@
 {
   "projects": [
-    { "id": 1, "title": "Project 1", "information": "Info Project 1 Updated"},
+    { "id": 1, "title": "Project 1", "information": "Info Project 1 Update"},
     { "id": 2, "title": "Project 2", "information": "Info Project 2"},
     { "id": 3, "title": "Project 3", "information": "Info Project 3"}
   ],

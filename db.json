@@ -9,10 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "users" : [
-    {"id" : 1, "name" : "Yogesh Dhimate", "information" : "something about Yogesh"},
-    {"id" : 2, "name" : "John Doe", "information" : "something about John"},
-    {"id" : 3, "name" : "Jane Doe", "information" : "something about Jane"},
-    {"id" : 5, "name" : "Art Vandelay", "information" : "something about Art"}
+    {"id" : 4, "name" : "MuleSoft Salesforce", "information" : "something about MuleSoft"}
 
     ],
   "profile": {

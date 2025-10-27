@@ -8,12 +8,12 @@
     {
       "id": 2,
       "shopper": "Mule",
-      "items": ["straberry", "pepsi", "chocolate"]
+      "items": ["strawberry", "watermelon"]
     },
     {
       "id": 3,
       "shopper": "Max",
-      "items": ["socks", "sneakers", "shorts"]
+      "items": ["orange", "mango", "kiwi"]
     }
   ]
 }

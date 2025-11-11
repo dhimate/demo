@@ -1,19 +1,114 @@
 {
   "list": [
     {
-        "id": 1,
+      "id": 1,
       "shopper": "Yogesh",
-      "items": ["apple", "banana", "cherry"]
+      "items": [
+        "apple",
+        "banana",
+        "cherry",
+        "grape",
+        "kiwi"
+      ]
     },
     {
       "id": 2,
       "shopper": "Mule",
-      "items": ["strawberry", "watermelon"]
+      "items": [
+        "strawberry",
+        "watermelon",
+        "pineapple",
+        "lime",
+        "peach"
+      ]
     },
     {
       "id": 3,
       "shopper": "Max",
-      "items": ["orange", "mango", "kiwi"]
+      "items": [
+        "orange",
+        "mango",
+        "kiwi",
+        "raspberry",
+        "coconut"
+      ]
+    },
+    {
+      "id": 4,
+      "shopper": "Sarah",
+      "items": [
+        "apple",
+        "pear",
+        "grapefruit",
+        "plum",
+        "apricot"
+      ]
+    },
+    {
+      "id": 5,
+      "shopper": "David",
+      "items": [
+        "banana",
+        "fig",
+        "lemon",
+        "tangerine",
+        "pomegranate"
+      ]
+    },
+    {
+      "id": 6,
+      "shopper": "Emily",
+      "items": [
+        "cherry",
+        "melon",
+        "blackberry",
+        "star fruit",
+        "guava"
+      ]
+    },
+    {
+      "id": 7,
+      "shopper": "Chris",
+      "items": [
+        "watermelon",
+        "lime",
+        "kiwi",
+        "cranberry",
+        "honeydew melon"
+      ]
+    },
+    {
+      "id": 8,
+      "shopper": "Jessica",
+      "items": [
+        "mango",
+        "peach",
+        "nectarine",
+        "papaya",
+        "avocado"
+      ]
+    },
+    {
+      "id": 9,
+      "shopper": "Tom",
+      "items": [
+        "orange",
+        "grape",
+        "apple",
+        "blueberry",
+        "currant"
+      ]
+    },
+    {
+      "id": 10,
+      "shopper": "Laura",
+      "items": [
+        "pineapple",
+        "raspberry",
+        "strawberry",
+        "passion fruit",
+        "soursop"
+      ]
     }
   ]
 }

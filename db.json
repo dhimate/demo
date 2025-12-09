@@ -1,4 +1,17 @@
 {
+  "expense" : [
+    {
+      "employee" : "Yogesh",
+      "expense_name" : "Lunch",
+      "expense_amount" : 10.0
+    },
+    {
+      "employee" : "Michael",
+      "expense_name" : "Dinner",
+      "expense_amount" : 12.0
+    }
+    
+  ],
   "list": [
     {
       "id": 1,
